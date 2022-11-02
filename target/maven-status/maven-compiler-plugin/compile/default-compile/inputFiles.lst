@@ -1,0 +1,12 @@
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/entity/Servico.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/repository/ServicoRepository.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/entity/Cliente.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/filtro/ClienteFiltro.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/rest/ApplicationControllerAdvice.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/rest/exception/ApiErrors.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/ClientesApplication.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/repository/ClienteRepositoryImpl.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/rest/ClienteController.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/config/InternacionalizacaoConfig.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/repository/CustomClienteRepository.java
+/Users/josias/Desktop/projetos/back-kondor/src/main/java/com/clientes/model/repository/ClienteRepository.java
